@@ -2,7 +2,7 @@
 ```
 python3 main.py
 ```
-1. press a or d to move paddle, ]r to release the ball
+1. press a or d to move paddle, r to release the ball
 # requirements
 python3
 
